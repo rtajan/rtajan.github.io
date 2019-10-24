@@ -13,7 +13,8 @@ title: Teaching
  - [Cours 5](/assets/cours/TS226/slides/TS226_COD5.pdf)
  - [Cours 6](/assets/cours/TS226/slides/TS226_COD6.pdf) : Codes Linéaires en blocs - distance minimale
  - [Cours 7](/assets/cours/TS226/slides/TS226_COD7.pdf) : Introduction aux codes convolutifs
- - [Cours 8](/assets/cours/TS226/slides/TS226_COD8.pdf) : Codes convolutifs - décodage de Viterbi
+ - [Cours 8](/assets/cours/TS226/slides/TS226_COD8.pdf) : Codes convolutifs
+ - [Cours 9](/assets/cours/TS226/slides/TS226_COD9.pdf) : Codes convolutifs - Décodage de Viterbi
 
 
 ## Travaux dirigés
