@@ -1,5 +1,28 @@
-theme: jekyll-theme-minimal
+theme: minima
+title: Romain Tajan
+logo: /assets/img/photo.jpg
+description: Associate professor
+header_pages:
+  - teaching.md
+  - research.md
 
-title: [Romain Tajan]
+plugins_dir: _plugins
 
-description: [Associate professor]
+markdown: kramdown
+parse_block_html: true
+
+scholar:
+  style: _plugins/ieee.csl
+  source: _bibliography
+  bibliography: refs.bib
+  sort_by: year,month
+  order: ascending
+  group_by: type
+  group_order: type
+  type_order: [article,inproceedings, misc, phdthesis,techreport]
+  bibtex_filters:
+    - latex
+    - markdown
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   '[details]'
