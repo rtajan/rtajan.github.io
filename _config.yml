@@ -10,6 +10,7 @@ plugins_dir: _plugins
 
 markdown: kramdown
 parse_block_html: true
+permalink: /docs/page/
 
 scholar:
   style: _plugins/ieee.csl
