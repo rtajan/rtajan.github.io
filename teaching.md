@@ -10,3 +10,8 @@ title: Teaching
 ## Cours d'I2SC (3ème année)
 
 - TS345 : [Cours sur les codes LDPC et les codes polaires. ](ts345.md)
+
+# Département Électronique
+## Cours de E2 (2ème année)
+
+- TS227 : [Systèmes de communications numériques](ts227.md)
