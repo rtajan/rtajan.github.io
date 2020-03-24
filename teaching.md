@@ -9,6 +9,8 @@ title: Teaching
 
 - TS217 : [Cours sur l'OFDM. ](ts217.md)
 
+- TS218 : [Cours de synchronisation. ](ts218.md)
+
 ## Cours d'I2SC (3ème année)
 
 - TS345 : [Cours sur les codes LDPC et les codes polaires. ](ts345.md)
