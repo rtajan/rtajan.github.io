@@ -34,6 +34,7 @@ Toute figure doit être référencée et expliquée dans le texte. Elle sert à 
 * Forme (6 points)
     - Structure (introduction, sommaire, conclusion, bibliographie, annexes etc.)
     - Mise en page
+
 ---
 * Qualité de la rédaction (6 points)
     - Soin apporté à la grammaire, orthographe, etc.
@@ -42,6 +43,7 @@ Toute figure doit être référencée et expliquée dans le texte. Elle sert à 
     - Clarté et concision des explications techniques
     - Illustrations
     - Longueur du rapport, esprit de synthèse
+
 ---
 * Qualité du travail technique (8 points)
     - Etat de l'art, étude bibliographique
