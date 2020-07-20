@@ -50,12 +50,22 @@ Toute figure doit être référencée et expliquée dans le texte. Elle sert à 
     - Originalité, créativité
     - Cahier des charges rempli, ou à défaut recul sur les problèmes rencontrés
 
-
 ## Soutenance de stage
 
 ### Consignes :
 
 Votre soutenance doit durer 20 minutes et sera suivie d'une séance de questions.
+En plus de présenter votre environnement de stage, vous devrez clairement présenter 
+    - le contexte de votre projet,
+    - l'existant (ce qu'il y avait avant vous),
+    - le cahier des charges,
+    - les problématiques techniques ainsi les verrous techniques rencontrés,
+    - les solutions apportées en insistant sur votre contribution personnelle,
+    - les réultats obtenus et les évolutions en cours,
+    -les conclusions et perspectives de votre travail.
+    
+
+
 
 ### Barème indicatif pour la notation de la soutenance
 ---
@@ -78,7 +88,8 @@ Votre soutenance doit durer 20 minutes et sera suivie d'une séance de questions
     - recul sur le travail réalisé
     - extension/suite au travail réalisé
     
-## Consignes concernant le poster
+## Poster
 
-Vous trouverez un modèle de poster [à l'adresse suivante.](https://enseirb-matmeca.bordeaux-inp.fr/extranet/fr/filemanager/active?fid=11467)
+En plus de votre rapport et de votre soutenance, vous devez fournir un poster.
+Pour réaliser ce poster, vous trouverez un modèle [à l'adresse suivante.](/assets/cours/PFE/Modele_Poster_PFE.ppt)
 
