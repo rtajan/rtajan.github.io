@@ -19,6 +19,10 @@ title: Teaching
 
 - TS345 : [Cours sur les codes LDPC et les codes polaires. ](ts345.md)
 
+## PFE
+
+- PFE : Vous trouverez des informations concernant le rapport, la soutenance ou encore le poster [sur le lien suivant.](pfe.md)
+
 # Département Électronique
 ## Cours de E2 (2ème année)
 
