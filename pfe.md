@@ -92,5 +92,6 @@ En plus de présenter votre environnement de stage, vous devrez clairement prés
 ## Poster
 
 En plus de votre rapport et de votre soutenance, vous devez fournir un poster.
+
 Pour réaliser ce poster, vous trouverez un modèle [à l'adresse suivante.](/assets/cours/PFE/Modele_Poster_PFE.ppt)
 
