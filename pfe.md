@@ -31,12 +31,12 @@ Toute figure doit être référencée et expliquée dans le texte. Elle sert à 
 ### Barème indicatif pour la notation du rapport
 
 ---
-* Forme
+* Forme (6 points)
     - Structure (introduction, sommaire, conclusion, bibliographie, annexes etc.)
     - Mise en page
 
 ---
-* Qualité de la rédaction
+* Qualité de la rédaction (6 points)
     - Soin apporté à la grammaire, orthographe, etc.
     - Introduction : présentation de la problématique, du contexte, du cahier des charges etc.
     - Conclusion : réponse à la problématique, perspectives intéressantes, etc.
@@ -45,10 +45,33 @@ Toute figure doit être référencée et expliquée dans le texte. Elle sert à 
     - Longueur du rapport, esprit de synthèse
 
 ---
-* Qualité du travail technique
+* Qualité du travail technique (8 points)
     - Etat de l'art, étude bibliographique
     - Pertinence des solutions retenues/proposées, justification des choix, démarche ingénieur
     - Originalité, créativité
     - Cahier des charges rempli, ou à défaut recul sur les problèmes rencontrés
 
+---
+
+### Barème indicatif pour la notation de la soutenance
+---
+* Forme (8 points)
+    - respect durée
+    - qualité des transparents
+    - attitude
+
+---
+* Fond (8 points)
+    - présentation problématique, contexte, cahier des  charges
+    - choix des éléments présentés (équilibré, trop dense, trop léger ?)
+    - clarté des explications techniques
+    - pertinence des illustrations
+
+---
+* Questions (4 points)
+    - connaissance de l'état de l'art
+    - pertinence des solutions envisagés
+    - recul sur le travail réalisé
+    - extension/suite au travail réalisé
+    
 ---
