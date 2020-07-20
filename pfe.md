@@ -63,7 +63,7 @@ En plus de présenter votre environnement de stage, vous devrez clairement prés
 - les problématiques techniques ainsi les verrous techniques rencontrés,
 - les solutions apportées en insistant sur votre contribution personnelle,
 - les réultats obtenus et les évolutions en cours,
--les conclusions et perspectives de votre travail.
+- les conclusions et perspectives de votre travail.
     
 
 
