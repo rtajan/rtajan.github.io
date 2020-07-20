@@ -25,7 +25,9 @@ Un rapport "type" devrait comprendre les éléments suivants :
 
 
 ### Utilisation des figures et autres illustrations :
-Toute figure doit être référencée et expliquée dans le texte. Elle sert à aider le rédacteur à illustrer son propos, expliquer un aspect particulier mais ne doit pas se substituer au texte.
+Toute figure doit être référencée et expliquée dans le texte. 
+
+Elle sert à aider le rédacteur à illustrer son propos, expliquer un aspect particulier mais ne doit pas se substituer au texte.
 
 ### Barème indicatif pour la notation du rapport
 
