@@ -55,7 +55,8 @@ Toute figure doit être référencée et expliquée dans le texte. Elle sert à 
 ### Consignes :
 
 Votre soutenance doit durer 20 minutes et sera suivie d'une séance de questions.
-En plus de présenter votre environnement de stage, vous devrez clairement présenter 
+
+En plus de présenter votre environnement de stage, vous devrez clairement présenter :
     - le contexte de votre projet,
     - l'existant (ce qu'il y avait avant vous),
     - le cahier des charges,
