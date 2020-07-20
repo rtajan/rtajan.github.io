@@ -57,13 +57,13 @@ Toute figure doit être référencée et expliquée dans le texte. Elle sert à 
 Votre soutenance doit durer 20 minutes et sera suivie d'une séance de questions.
 
 En plus de présenter votre environnement de stage, vous devrez clairement présenter :
-    - le contexte de votre projet,
-    - l'existant (ce qu'il y avait avant vous),
-    - le cahier des charges,
-    - les problématiques techniques ainsi les verrous techniques rencontrés,
-    - les solutions apportées en insistant sur votre contribution personnelle,
-    - les réultats obtenus et les évolutions en cours,
-    -les conclusions et perspectives de votre travail.
+- le contexte de votre projet,
+- l'existant (ce qu'il y avait avant vous),
+- le cahier des charges,
+- les problématiques techniques ainsi les verrous techniques rencontrés,
+- les solutions apportées en insistant sur votre contribution personnelle,
+- les réultats obtenus et les évolutions en cours,
+-les conclusions et perspectives de votre travail.
     
 
 
