@@ -3,9 +3,9 @@ layout: default
 title: PFE
 ---
 
-## Consignes concernant le rapport
+## Rapport de stage
 
-### Rédaction :
+### Consignes
 
 **La qualité sera toujours privilégiée à la quantité.** La rédaction doit être simple et mettre en valeur les contributions du rédacteur au projet.
 
@@ -13,9 +13,8 @@ Il n'y a pas de nombre minimal ou de nombre maximal de pages. En revanche, **il 
 
 Un rapport de stage n'est ni le récit de votre stage ni votre journal de bord. Il doit **montrer votre démarche en tant qu'élève ingénieur face à la résolution d'un problème concret** : analyse, raisonnement, synthèse, etc.
 
-### Structure :
-
-Un rapport "type" devrait comprendre les parties suivantes :
+### Structure "type"
+Un rapport "type" devrait comprendre les éléments suivants :
 - une présentation du contexte de votre stage (l'entreprise, l’équipe d'accueil, le projet, ...),
 - le cahier des charges de votre projet,
 - l'analyse de l'existant, éventuellement des solutions envisageables,
@@ -31,12 +30,12 @@ Toute figure doit être référencée et expliquée dans le texte. Elle sert à 
 ### Barème indicatif pour la notation du rapport
 
 ---
-* Forme
+* Forme (6 points)
     - Structure (introduction, sommaire, conclusion, bibliographie, annexes etc.)
     - Mise en page
 
 ---
-* Qualité de la rédaction
+* Qualité de la rédaction (6 points)
     - Soin apporté à la grammaire, orthographe, etc.
     - Introduction : présentation de la problématique, du contexte, du cahier des charges etc.
     - Conclusion : réponse à la problématique, perspectives intéressantes, etc.
@@ -45,10 +44,41 @@ Toute figure doit être référencée et expliquée dans le texte. Elle sert à 
     - Longueur du rapport, esprit de synthèse
 
 ---
-* Qualité du travail technique
+* Qualité du travail technique (8 points)
     - Etat de l'art, étude bibliographique
     - Pertinence des solutions retenues/proposées, justification des choix, démarche ingénieur
     - Originalité, créativité
     - Cahier des charges rempli, ou à défaut recul sur les problèmes rencontrés
 
+
+## Soutenance de stage
+
+### Consignes :
+
+Votre soutenance doit durer 20 minutes et sera suivie d'une séance de questions.
+
+### Barème indicatif pour la notation de la soutenance
 ---
+* Forme (8 points)
+    - respect durée
+    - qualité des transparents
+    - attitude
+
+---
+* Fond (8 points)
+    - présentation problématique, contexte, cahier des  charges
+    - choix des éléments présentés (équilibré, trop dense, trop léger ?)
+    - clarté des explications techniques
+    - pertinence des illustrations
+
+---
+* Questions (4 points)
+    - connaissance de l'état de l'art
+    - pertinence des solutions envisagés
+    - recul sur le travail réalisé
+    - extension/suite au travail réalisé
+    
+## Consignes concernant le poster
+
+Vous trouverez un modèle de poster [à l'adresse suivante.](https://enseirb-matmeca.bordeaux-inp.fr/extranet/fr/filemanager/active?fid=11467)
+
