@@ -2,6 +2,23 @@
 layout: default
 title: PFE
 ---
+## Avant le stage
+
+La procédure de déclaration de votre stage sur [AREXIS](https://enseirb-matmeca.bordeaux-inp.fr/extranet/fr/arexis-plateforme-de-declaration-de-stage-et-contrat), pour vous aider dans votre démarche, vous pouvez vous servir de ce [tutoriel](/assets/cours/PFE/tuto_arexis.pdf). En résumé, la procédure est la suivante :
+- Déclarer votre stage sous AREXIS.
+- La validation des stages est effectuée par le responsable de votre option.
+    - **Même si l'entreprise est d'accord pour vous prendre, mentionner la phase validation au niveau de l’école !**
+    - Cette validation est basée sur le sujet du stage (pas uniquement sur le titre).
+    - Pour être validé, **un stage doit comporter une partie technique**.
+- Établissement d'une convention de stage entre l'école, l'entreprise et vous.
+
+## Pendant le stage
+Au début du stage un tuteur vous sera affecté. Il réalisera le suivi de votre stage tout au long de sa durée. **Votre tuteur est là en cas de problèmes** et est leur interface avec ENSEIRB-Matmeca.
+
+Dès qu'un tuteur vous a été attribué le **contacter par mail :**
+- définir un cahier des charges (sujet, ce que vous allez faire, problématiques de l'entreprise…)
+- indiquer le nom de votre maitre de stage, son mail et son numéro de téléphone.
+
 
 ## Rapport de stage
 
@@ -25,7 +42,7 @@ Un rapport "type" devrait comprendre les éléments suivants :
 
 
 ### Utilisation des figures et autres illustrations :
-Toute figure doit être référencée et expliquée dans le texte. 
+Toute figure doit être référencée et expliquée dans le texte.
 
 Elle sert à aider le rédacteur à illustrer son propos, expliquer un aspect particulier mais ne doit pas se substituer au texte.
 
@@ -66,7 +83,7 @@ En plus de présenter votre environnement de stage, vous devrez clairement prés
 - les solutions apportées en insistant sur votre contribution personnelle,
 - les réultats obtenus et les évolutions en cours,
 - les conclusions et perspectives de votre travail.
-    
+
 
 
 
@@ -90,7 +107,7 @@ En plus de présenter votre environnement de stage, vous devrez clairement prés
     - pertinence des solutions envisagés
     - recul sur le travail réalisé
     - extension/suite au travail réalisé
-    
+
 ## Poster
 
 En plus de votre rapport et de votre soutenance, vous devez fournir un poster.
