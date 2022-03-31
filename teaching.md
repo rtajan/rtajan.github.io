@@ -5,7 +5,7 @@ title: Teaching
 # Département Télécommunications
 ## Cours de T1 (1ère année)
 - TS113 : [Cours de communications numériques. ](ts113.md)
-- TS114 : [Projet de traitement du signal. ](ts114.md)
+- TS114 : [Traitement numérique du signal. ](ts114.md)
 
 ## Cours de T2 (2ème année)
 - TS226 : [Cours sur les codes linéaires en blocs jusqu'aux codes convolutifs. ](ts226.md)
@@ -15,9 +15,8 @@ title: Teaching
 ## Cours d'I2SC (3ème année)
 - TS345 : [Cours sur les codes LDPC et les codes polaires. ](ts345.md)
 
-## PFE
-
-- PFE : Vous trouverez des informations concernant le rapport, la soutenance ou encore le poster [sur le lien suivant.](pfe.md)
+<!--## PFE
+- PFE : Vous trouverez des informations concernant le rapport, la soutenance ou encore le poster [sur le lien suivant.](pfe.md)-->
 
 # Département Électronique
 ## Cours de E2 (2ème année)
