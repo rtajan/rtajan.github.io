@@ -12,6 +12,7 @@ title: Teaching
 - TS226 : [Cours sur les codes linéaires en blocs jusqu'aux codes convolutifs. ](ts226.md)
 - TS217 : [Communications numériques sans-fil](ts217.md)
 - TS218 : [Cours de synchronisation. ](ts218.md)
+- CNUM2 : [Projet de communications numériques.](ete7-cnum2.md)
 
 ## Cours d'I2SC (3ème année)
 - TS345 : [Cours sur les codes LDPC et les codes polaires. ](ts345.md)
