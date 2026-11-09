@@ -4,6 +4,7 @@ title: Teaching
 ---
 # Département Télécommunications
 ## Cours de T1 (1ère année)
+- ETE5-CNUM1 : [Communications analogiques et canaux de propagation. ](ete5-cnum1.md)
 - MA118 : [Formation MATLAB. ](ma118.md)
 - TS113 : [Cours de communications numériques. ](ts113.md)
 - TS114 : [Traitement numérique du signal. ](ts114.md)
