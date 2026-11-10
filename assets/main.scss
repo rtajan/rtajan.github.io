@@ -1,0 +1,194 @@
+---
+---
+
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@500;600&family=Source+Sans+3:wght@400;500;600&display=swap");
+
+// Palette: misty green paper, deep ink, fir-green accent
+$paper:   #f3f7f4;
+$card:    #ffffff;
+$ink:     #1e2a24;
+$muted:   #5b6a62;
+$line:    #dbe5de;
+$accent:  #2f5d46;
+$accent-soft: #e2eee6;
+
+// Minima variables (must be set before the theme import)
+$base-font-family: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+$base-font-size:   18px;
+$base-line-height: 1.65;
+$text-color:       $ink;
+$background-color: $paper;
+$brand-color:      $accent;
+$grey-color:       $muted;
+$grey-color-light: $line;
+$content-width:    880px;
+
+@import "{{ site.theme }}";
+
+$serif: "Lora", Georgia, "Times New Roman", serif;
+
+// ---------------------------------------------------------------------------
+// General
+// ---------------------------------------------------------------------------
+body { -webkit-font-smoothing: antialiased; }
+
+a { color: $accent; text-decoration: none; }
+a:visited { color: #284f3c; }
+a:hover { color: #1f3f30; text-decoration: underline; text-underline-offset: 3px; }
+
+h1, h2, h3 { font-family: $serif; font-weight: 600; color: $ink; letter-spacing: -0.005em; }
+
+.page-content { padding: 40px 0 56px; }
+.page-content h1 { font-size: 2.3rem; line-height: 1.2; margin: .5rem 0 1rem; }
+.page-content h2 {
+  font-size: 1.5rem;
+  margin: 2.4rem 0 1rem;
+  &::after {
+    content: "";
+    display: block;
+    width: 42px;
+    height: 3px;
+    margin-top: .45rem;
+    border-radius: 2px;
+    background: $accent;
+  }
+}
+.page-content h3 { font-size: 1.15rem; margin: 1.6rem 0 .6rem; }
+
+.page-content ul ul { margin-top: .2rem; }
+.page-content li { margin-bottom: .3rem; }
+.page-content img { border-radius: 8px; max-width: 100%; }
+
+code { background: $accent-soft; border: 0; border-radius: 4px; padding: 1px 5px; }
+
+// ---------------------------------------------------------------------------
+// Header & footer
+// ---------------------------------------------------------------------------
+.site-header {
+  border-top: 0;
+  border-bottom: 1px solid $line;
+  background: rgba($paper, .92);
+}
+.site-title, .site-title:visited {
+  font-family: $serif;
+  font-weight: 600;
+  color: $ink;
+}
+.site-nav .page-link { color: $muted; font-weight: 500; }
+.site-nav .page-link:hover { color: $accent; text-decoration: none; }
+.site-nav { background-color: $paper; }
+
+.site-footer { border-top: 1px solid $line; background: #e8efea; }
+.footer-heading { font-family: $serif; }
+
+// ---------------------------------------------------------------------------
+// Home page
+// ---------------------------------------------------------------------------
+.hero {
+  display: flex;
+  gap: 2.5rem;
+  align-items: center;
+  padding: 2.2rem 2.4rem;
+  margin: .5rem 0 1rem;
+  background: $card;
+  border: 1px solid $line;
+  border-radius: 18px;
+  box-shadow: 0 10px 30px rgba(30, 42, 36, .06);
+
+  img {
+    width: 180px;
+    height: 180px;
+    min-width: 180px;
+    max-width: none;
+    flex: 0 0 auto;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 5px solid $accent-soft;
+  }
+
+  h1 { margin: 0 0 .25rem; font-size: 2.4rem; }
+
+  .role { color: $muted; margin: 0 0 .9rem; font-size: .98rem; }
+
+  .intro { margin-bottom: 0; }
+
+  @media (max-width: 640px) {
+    flex-direction: column;
+    text-align: center;
+    padding: 1.8rem 1.3rem;
+    gap: 1.2rem;
+
+    img { width: 150px; height: 150px; min-width: 150px; }
+    .links { justify-content: center; }
+  }
+}
+
+.links {
+  list-style: none;
+  margin: 1.1rem 0 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem;
+
+  li { margin: 0; }
+
+  a, a:visited {
+    display: inline-block;
+    padding: .3rem .85rem;
+    border-radius: 999px;
+    background: $accent-soft;
+    color: #2a5440;
+    font-size: .88rem;
+    font-weight: 500;
+  }
+
+  a:hover { background: $accent; color: #fff; text-decoration: none; }
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 0 0 1rem;
+}
+
+.card {
+  background: $card;
+  border: 1px solid $line;
+  border-radius: 14px;
+  padding: 1.2rem 1.3rem;
+
+  h3 { margin: 0 0 .4rem; font-size: 1.1rem; }
+  p  { margin: 0; color: $muted; font-size: .95rem; line-height: 1.55; }
+}
+
+// ---------------------------------------------------------------------------
+// Teaching & course pages
+// ---------------------------------------------------------------------------
+.course-code {
+  display: inline-block;
+  min-width: 7.5em;
+  font-family: SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: .85em;
+  color: $muted;
+}
+
+.breadcrumb {
+  font-size: .9rem;
+  margin: 0;
+
+  a, a:visited { color: $muted; }
+  a:hover { color: $accent; }
+}
+
+// ---------------------------------------------------------------------------
+// Publications
+// ---------------------------------------------------------------------------
+.pubs { list-style: none; margin-left: 0; }
+.pubs li {
+  padding: .6rem 0 .6rem 1rem;
+  border-left: 3px solid $accent-soft;
+  margin-bottom: .6rem;
+}
+.venue { color: $muted; font-style: italic; }

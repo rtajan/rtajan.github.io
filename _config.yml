@@ -1,17 +1,41 @@
 theme: minima
 title: Romain Tajan
+lang: en
+author: Romain Tajan
+description: >-
+  Associate professor at ENSEIRB-MATMECA and the IMS Laboratory (Bordeaux).
+  Channel coding, polar codes and digital communications.
+url: https://rtajan.github.io
 logo: /assets/img/photo.jpg
-description: Associate professor
+github_username: rtajan
+
 header_pages:
   - research.md
   - teaching.md
 
-
-plugins_dir: _plugins
-
 markdown: kramdown
+
+# Silence Sass deprecation warnings coming from the minima theme (local Jekyll 4 builds)
+sass:
+  quiet_deps: true
+  silence_deprecations: [import, global-builtin, color-functions, slash-div, mixed-decls]
+
 parse_block_html: true
 permalink: /docs/page/
+
+# Files that must not be published
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - defaut.html
+  - _plugins
+  - _bibliography
+  - README.md
+
+# The settings below are only used by a local build with jekyll-scholar
+# (GitHub Pages does not run custom plugins).
+plugins_dir: _plugins
 
 scholar:
   style: _plugins/ieee.csl

@@ -1,9 +1,16 @@
 ---
 layout: default
-title: SEE1
+title: "SEE – Communications numériques"
+lang: fr
+course: "CNUM"
+subtitle: "Communications numériques (SEE)"
 ---
 
-## Matériel de cours
- - [Sujet du TD](/assets/cours/SEE/CNUM_TD.pdf)
- - [Sujet du TP](/assets/cours/SEE/CNUM_TP.pdf)
- - [Slides](/assets/cours/TS113/pres_comm_num.pdf) 
+## Cours
+- [Transparents](/assets/cours/TS113/pres_comm_num.pdf)
+
+## Travaux dirigés
+- [Sujet du TD](/assets/cours/SEE/CNUM_TD.pdf)
+
+## Travaux pratiques
+- [Sujet du TP](/assets/cours/SEE/CNUM_TP.pdf)

@@ -13,3 +13,5 @@ gem 'jekyll-scholar'
 gem 'citeproc-ruby', '~> 1.0'
 gem "bibtex-ruby", ">= 5.1.0"
 
+
+gem "webrick", "~> 1.9"

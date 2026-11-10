@@ -1,21 +1,26 @@
 ---
 layout: default
-title: PFE
+title: "PFE – Projet de fin d'études"
+lang: fr
+course: "PFE"
+subtitle: "Projet de fin d'études"
 ---
 ## Avant le stage
 
-La procédure de déclaration de votre stage sur [AREXIS](https://enseirb-matmeca.bordeaux-inp.fr/extranet/fr/arexis-plateforme-de-declaration-de-stage-et-contrat), pour vous aider dans votre démarche, vous pouvez vous servir de ce [tutoriel](/assets/cours/PFE/tuto_arexis.pdf). En résumé, la procédure est la suivante :
+La procédure de déclaration de votre stage se fait sur [AREXIS](https://enseirb-matmeca.bordeaux-inp.fr/extranet/fr/arexis-plateforme-de-declaration-de-stage-et-contrat). Pour vous aider dans votre démarche, vous pouvez vous servir de ce [tutoriel](/assets/cours/PFE/tuto_arexis.pdf). En résumé, la procédure est la suivante :
+
 - Déclarer votre stage sous AREXIS.
 - La validation des stages est effectuée par le responsable de votre option.
-    - **Même si l'entreprise est d'accord pour vous prendre, mentionner la phase validation au niveau de l’école !**
+    - **Même si l'entreprise est d'accord pour vous prendre, n'oubliez pas la phase de validation par l'école !**
     - Cette validation est basée sur le sujet du stage (pas uniquement sur le titre).
     - Pour être validé, **un stage doit comporter une partie technique**.
 - Établissement d'une convention de stage entre l'école, l'entreprise et vous.
 
 ## Pendant le stage
-Au début du stage un tuteur vous sera affecté. Il réalisera le suivi de votre stage tout au long de sa durée. **Votre tuteur est là en cas de problèmes** et est leur interface avec ENSEIRB-Matmeca.
+Au début du stage, un tuteur vous sera affecté. Il réalisera le suivi de votre stage tout au long de sa durée. **Votre tuteur est là en cas de problèmes** et fait l'interface avec l'ENSEIRB-MATMECA.
 
-Dès qu'un tuteur vous a été attribué le **contacter par mail :**
+Dès qu'un tuteur vous a été attribué, **contactez-le par mail** pour :
+
 - définir un cahier des charges (sujet, ce que vous allez faire, problématiques de l'entreprise…)
 - indiquer le nom de votre maitre de stage, son mail et son numéro de téléphone.
 
@@ -32,6 +37,7 @@ Un rapport de stage n'est ni le récit de votre stage ni votre journal de bord. 
 
 ### Structure "type"
 Un rapport "type" devrait comprendre les éléments suivants :
+
 - une présentation du contexte de votre stage (l'entreprise, l’équipe d'accueil, le projet, ...),
 - le cahier des charges de votre projet,
 - l'analyse de l'existant, éventuellement des solutions envisageables,
@@ -76,12 +82,13 @@ Elle sert à aider le rédacteur à illustrer son propos, expliquer un aspect pa
 Votre soutenance doit durer 20 minutes et sera suivie d'une séance de questions.
 
 En plus de présenter votre environnement de stage, vous devrez clairement présenter :
+
 - le contexte de votre projet,
 - l'existant (ce qu'il y avait avant vous),
 - le cahier des charges,
-- les problématiques techniques ainsi les verrous techniques rencontrés,
+- les problématiques techniques ainsi que les verrous techniques rencontrés,
 - les solutions apportées en insistant sur votre contribution personnelle,
-- les réultats obtenus et les évolutions en cours,
+- les résultats obtenus et les évolutions en cours,
 - les conclusions et perspectives de votre travail.
 
 
@@ -104,7 +111,7 @@ En plus de présenter votre environnement de stage, vous devrez clairement prés
 ---
 * Questions (4 points)
     - connaissance de l'état de l'art
-    - pertinence des solutions envisagés
+    - pertinence des solutions envisagées
     - recul sur le travail réalisé
     - extension/suite au travail réalisé
 

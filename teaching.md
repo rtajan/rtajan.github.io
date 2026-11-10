@@ -1,33 +1,43 @@
 ---
 layout: default
 title: Teaching
+lang: fr
 ---
-# Département Télécommunications
-## Cours de T1 (1ère année)
-- ETE5-CNUM1 : [Communications analogiques et canaux de propagation. ](ete5-cnum1.md)
-- MA118 : [Formation MATLAB. ](ma118.md)
-- TS113 : [Cours de communications numériques. ](ts113.md)
-- TS114 : [Traitement numérique du signal. ](ts114.md)
 
-## Cours de T2 (2ème année)
-- TS226 : [Cours sur les codes linéaires en blocs jusqu'aux codes convolutifs. ](ts226.md)
-- TS217 : [Communications numériques sans-fil](ts217.md)
-- TS218 : [Cours de synchronisation. ](ts218.md)
-- CNUM2 : [Projet de communications numériques.](ete7-cnum2.md)
+# Enseignements
 
-## Cours d'I2SC (3ème année)
-- TS345 : [Cours sur les codes LDPC et les codes polaires. ](ts345.md)
+Supports des cours que j'assure à l'[ENSEIRB-MATMECA](https://enseirb-matmeca.bordeaux-inp.fr) :
+transparents, sujets de TD et de TP, codes et données.
 
-<!--## PFE
-- PFE : Vous trouverez des informations concernant le rapport, la soutenance ou encore le poster [sur le lien suivant.](pfe.md)-->
+## Département Télécommunications
 
-# Département Électronique
-## Cours de E2 (2ème année)
-- TS227 : [Systèmes de communications numériques](ts227.md)
-- TS205 : [Principes des communications multiporteuses. Introduction à l'OFDM](ts205.md)
+### 1<sup>re</sup> année (T1)
+- <span class="course-code">ETE5-CNUM1</span> [Communications analogiques et canaux de propagation](ete5-cnum1.md)
+- <span class="course-code">MA118</span> [Formation MATLAB](ma118.md)
+- <span class="course-code">TS113</span> [Communications numériques](ts113.md)
+- <span class="course-code">TS114</span> [Traitement numérique du signal](ts114.md)
 
-## Cours de E3 (3ème année)
-- EN310 : [Communications Numériques Avancées](en310.md)
+### 2<sup>e</sup> année (T2)
+- <span class="course-code">TS226</span> [Des codes linéaires en blocs aux codes convolutifs](ts226.md)
+- <span class="course-code">TS217</span> [Communications numériques sans fil](ts217.md)
+- <span class="course-code">TS218</span> [Synchronisation](ts218.md)
+- <span class="course-code">ETE7-CNUM2</span> [Projet de communications numériques (ADS-B)](ete7-cnum2.md)
 
-# SEE
-- CNUM : [Communications Numériques](see1.md)
+### 3<sup>e</sup> année (I2SC)
+- <span class="course-code">TS345</span> [Codes LDPC et codes polaires](ts345.md)
+
+<!--### PFE
+
+- <span class="course-code">PFE</span> [Rapport, soutenance et poster de PFE](pfe.md)-->
+
+## Département Électronique
+
+### 2<sup>e</sup> année (E2)
+- <span class="course-code">TS227</span> [Systèmes de communications numériques](ts227.md)
+- <span class="course-code">TS205</span> [Principes des communications multiporteuses : introduction à l'OFDM](ts205.md)
+
+### 3<sup>e</sup> année (E3)
+- <span class="course-code">EN310</span> [Communications numériques avancées](en310.md)
+
+## SEE
+- <span class="course-code">CNUM</span> [Communications numériques](see1.md)

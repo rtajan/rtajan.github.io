@@ -9,6 +9,12 @@
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
+        {%- if page.course %}
+        <nav class="breadcrumb" aria-label="Fil d'Ariane">
+          <a href="{{ '/teaching/' | relative_url }}">&larr; Enseignements</a>
+        </nav>
+        <h1>{{ page.course }}{% if page.subtitle %} &mdash; {{ page.subtitle }}{% endif %}</h1>
+        {%- endif %}
         {{ content }}
       </div>
     </main>
