@@ -8,3 +8,4 @@ subtitle: "Communications analogiques et canaux de propagation"
 
 ## Transparents
 - [Séance 1 – Communiquer par radio : porteuse, spectre, bande passante](/assets/cours/ETE5-CNUM1/ete5-cnum1-s1.pdf)
+- [Séance 2 – Canal de propagation (1) : espace libre](/assets/cours/ETE5-CNUM1/ete5-cnum1-s2.pdf)
